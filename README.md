@@ -1,3 +1,0 @@
-﻿# Examen-Final-API
-## Miantsa 
-## STD24215
